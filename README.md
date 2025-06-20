@@ -1,32 +1,43 @@
 # AWS Cloud Governance Blueprint
 
-A beginner-friendly AWS governance blueprint covering IAM, S3, EC2, CloudTrail, and basic compliance tracking for cloud environments.
+This project simulates a foundational cloud governance framework using core AWS services to demonstrate best practices in compliance, security, and scalable operations — aligned with industry expectations for GRC, audit readiness, and IAM control.
 
-## 🔐 Project Focus
-- IAM policy enforcement and access controls
-- AWS Config rule setup for audit readiness
-- CloudTrail and logging strategy simulation
-- Governance-ready account architecture using Control Tower concepts
+## 📌 Project Overview
 
-## 📁 Project Files
-- `iam-policy.json` – Sample least-privilege IAM policy  
-- `config-rule.yml` – YAML config rule for monitoring S3 encryption  
-- `governance-diagram.png` – Visual cloud account structure  
-- `audit-tracker.xlsx` – Sample compliance tracker for audit logs
--  config-rule.yaml – YAML config rule to enforce required tags across EC2, S3, and Lambda resources
+This blueprint includes mock configurations and guidance for:
 
+- IAM Role and Policy creation for least privilege access
+- AWS Config rules for compliance enforcement
+- AWS CloudTrail tracking for audit visibility
+- Sample tagging policies for resource management
+- Multi-account governance via AWS Organizations
 
-## 🧠 Skills Demonstrated
-- AWS Identity & Access Management (IAM)  
-- Governance & Risk Controls (GRC)  
-- Documentation accuracy and audit traceability  
-- Cloud account architecture strategy  
-- Compliance-first project planning
-- AWS Config policy authoring
-- Tag-based compliance enforcement
+## 🎯 Objectives
 
+- Simulate real-world GRC tasks aligned with NIST and CIS benchmarks  
+- Demonstrate understanding of secure, audit-ready architecture  
+- Showcase a risk-aware mindset for cloud operations  
 
----
+## 🛠 Tools & Services
 
-**Built by DeNarius Thomas**  
-[LinkedIn](https://www.linkedin.com/in/denariusthomas) | [Resume](#) | [Email Me](mailto:denarius.thomas@gmail.com)
+- **AWS IAM** – User and permission management  
+- **AWS Config** – Compliance rule simulation  
+- **AWS CloudTrail** – Activity logging  
+- **AWS Organizations** – Multi-account control  
+- **S3** – Storage for logs and configuration snapshots  
+
+## 📁 Files
+
+- `config-rules-sample.xlsx` – Sample compliance rule tracking
+- `iam-role-policy.json` – Sample least privilege role policy
+- `org-structure-diagram.png` – Governance structure overview
+
+## 🚀 Why This Project Matters
+
+As a future Cloud Governance or Compliance Analyst, I created this project to show my proactive understanding of AWS governance, my ability to document policy, and my commitment to security-aware architecture.
+
+## 📬 Contact
+
+DeNarius Thomas  
+📧 denarius.thomas@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/denariusthomas)
