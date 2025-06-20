@@ -13,6 +13,8 @@ This is a simulated portfolio project showcasing my foundational AWS governance,
 - `config-rule.yml` – YAML config rule for monitoring S3 encryption  
 - `governance-diagram.png` – Visual cloud account structure  
 - `audit-tracker.xlsx` – Sample compliance tracker for audit logs
+-  config-rule.yaml – YAML config rule to enforce required tags across EC2, S3, and Lambda resources
+
 
 ## 🧠 Skills Demonstrated
 - AWS Identity & Access Management (IAM)  
@@ -20,6 +22,9 @@ This is a simulated portfolio project showcasing my foundational AWS governance,
 - Documentation accuracy and audit traceability  
 - Cloud account architecture strategy  
 - Compliance-first project planning
+- AWS Config policy authoring
+- Tag-based compliance enforcement
+
 
 ---
 
