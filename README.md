@@ -1,43 +1,48 @@
-# AWS Cloud Governance Blueprint
+# 🛡️ AWS Cloud Governance Blueprint
 
 This project simulates a foundational cloud governance framework using core AWS services to demonstrate best practices in compliance, security, and scalable operations — aligned with industry expectations for GRC, audit readiness, and IAM control.
+
+---
 
 ## 📌 Project Overview
 
 This blueprint includes mock configurations and guidance for:
 
-- IAM Role and Policy creation for least privilege access
-- AWS Config rules for compliance enforcement
-- AWS CloudTrail tracking for audit visibility
-- Sample tagging policies for resource management
-- Multi-account governance via AWS Organizations
+- IAM Role and Policy creation for least privilege access  
+- AWS Config rules for compliance enforcement  
+- AWS CloudTrail tracking for audit visibility  
+- Sample tagging policies for resource management  
+- Multi-account governance via AWS Organizations  
+
+---
 
 ## 🎯 Objectives
 
 - Simulate real-world GRC tasks aligned with NIST and CIS benchmarks  
 - Demonstrate understanding of secure, audit-ready architecture  
-- Showcase a risk-aware mindset for cloud operations  
+- Showcase a governance mindset for cloud operations  
 
-## 🛠 Tools & Services
+---
 
-- **AWS IAM** – User and permission management  
-- **AWS Config** – Compliance rule simulation  
-- **AWS CloudTrail** – Activity logging  
-- **AWS Organizations** – Multi-account control  
-- **S3** – Storage for logs and configuration snapshots  
+## 🛠️ Tools & Services
 
-## 📁 Files
+| Category            | Service/Tool             |
+|---------------------|--------------------------|
+| Identity Management | IAM (roles, policies)    |
+| Governance          | AWS Config, Organizations|
+| Auditing            | CloudTrail, S3, Tagging  |
+| Visualization       | Architecture Diagram     |
+| Documentation       | Audit tracker (Excel), Markdown |
 
-- `config-rules-sample.xlsx` – Sample compliance rule tracking
-- `iam-role-policy.json` – Sample least privilege role policy
-- `org-structure-diagram.png` – Governance structure overview
+---
 
-## 🚀 Why This Project Matters
+## 🌟 Why This Project Matters
 
-As a future Cloud Governance or Compliance Analyst, I created this project to show my proactive understanding of AWS governance, my ability to document policy, and my commitment to security-aware architecture.
+GRC professionals are expected to work across cloud teams to ensure operations are **secure**, **accountable**, and **transparent**. This portfolio bridges AWS training with real-world control strategies and documentation — reflecting the needs of modern cloud governance teams.
 
-## 📬 Contact
+> *"I don’t just want to work in the cloud — I want to govern it, secure it, and make it better for the people it serves."*
 
-DeNarius Thomas  
-📧 denarius.thomas@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/denariusthomas)
+---
+
+**Built by DeNarius Thomas**  
+[LinkedIn](https://www.linkedin.com/in/denariusthomas) | [Resume](#) | [Email Me](mailto:denarius.thomas@gmail.com)
