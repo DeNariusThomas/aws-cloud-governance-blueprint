@@ -1,6 +1,6 @@
 # AWS Cloud Governance Blueprint
 
-This is a simulated portfolio project showcasing my foundational AWS governance, compliance, and architecture skills as a Solutions Architect trainee and Cloud Governance candidate.
+A beginner-friendly AWS governance blueprint covering IAM, S3, EC2, CloudTrail, and basic compliance tracking for cloud environments.
 
 ## 🔐 Project Focus
 - IAM policy enforcement and access controls
